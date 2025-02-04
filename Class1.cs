@@ -19,8 +19,14 @@ namespace Gpax
             this.gpa_sum += gpa;
             this.n++;
             gpas.Add(gpa);
-            gpa_min = gpas.Min();
-            gpa_max = gpas.Max();
+            if (gpa < gpa_min)
+            {
+                gpa_min = gpa;
+            }
+            if (gpa > gpa_max)
+            {
+                gpa_max = gpa;
+            }
         }
 
         public double getGpa()

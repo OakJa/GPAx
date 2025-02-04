@@ -14,3 +14,4 @@ C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\refint\Gpax.dll
 C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.pdb
 C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.genruntimeconfig.cache
 C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\ref\Gpax.dll
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.sourcelink.json
