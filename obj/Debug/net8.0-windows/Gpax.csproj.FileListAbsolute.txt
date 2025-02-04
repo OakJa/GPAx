@@ -1,0 +1,16 @@
+C:\Users\moith\source\repos\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.exe
+C:\Users\moith\source\repos\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.deps.json
+C:\Users\moith\source\repos\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.runtimeconfig.json
+C:\Users\moith\source\repos\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.dll
+C:\Users\moith\source\repos\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.pdb
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.Form1.resources
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.csproj.GenerateResource.cache
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.AssemblyInfoInputs.cache
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.AssemblyInfo.cs
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.csproj.CoreCompileInputs.cache
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.dll
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\refint\Gpax.dll
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.pdb
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.genruntimeconfig.cache
+C:\Users\moith\source\repos\Gpax\Gpax\obj\Debug\net8.0-windows\ref\Gpax.dll

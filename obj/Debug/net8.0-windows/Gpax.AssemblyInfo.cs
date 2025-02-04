@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gpax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624718a0fd4243291599b6c9e7160fd1e965c596")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gpax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gpax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
